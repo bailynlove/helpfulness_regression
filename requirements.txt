@@ -1,0 +1,7 @@
+textblob
+pandas
+numpy
+pytorch
+opencv-python
+scikit-learn
+statsmodels
